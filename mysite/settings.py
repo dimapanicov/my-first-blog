@@ -25,7 +25,7 @@ SECRET_KEY = '_(@%vjee55&*l-zyh8z=*466b*fw7*qz=-ty0)da*+cb0939)1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'torop.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dimatestblog.pythonanywhere.com']
 
 
 # Application definition
